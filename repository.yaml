@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Updated zwave js ui add-on repository
+url: 'https://github.com/roblandry/addon-zwave-js-ui'
+maintainer: Rob Landry
