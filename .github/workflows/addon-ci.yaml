@@ -115,7 +115,7 @@ jobs:
       - lint-addon
       - lint-hadolint
       - lint-json
-#       - lint-prettier
+      # - lint-prettier
       - lint-shellcheck
       - lint-yamllint
     runs-on: ubuntu-latest
