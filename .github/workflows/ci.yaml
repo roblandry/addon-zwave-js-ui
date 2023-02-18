@@ -13,6 +13,6 @@ on:
 
 jobs:
   workflows:
-    uses: addon-zwave-js-us/.github/workflows/addon-ci.yaml@main
+    uses: ./.github/workflows/addon-ci.yaml
     with:
       slug: "zwave-js-ui"
